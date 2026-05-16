@@ -187,12 +187,16 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+## 1024
 ![alt text](image.png)
 
+## 1023
 ![alt text](image-1.png)
 
+## 512
 ![alt text](image-2.png)
 
+## 256
 ![alt text](image-3.png)
 
 ## RESULT:
